@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "460103344288",
+    "firebase_url": "https://medicaily823183.firebaseio.com",
+    "project_id": "medicaily823183",
+    "storage_bucket": "medicaily823183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460103344288:android:eba5f4fe38a9ebde",
+        "android_client_info": {
+          "package_name": "com.medicaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460103344288-7pbg0umrj4fvvak66lhqoephh30g499i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medicaily",
+            "certificate_hash": "aec3b4c64f07254bf19b15335754623354479630"
+          }
+        },
+        {
+          "client_id": "460103344288-84ka6lt1br3h6v70hc2plov05pm0ionp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD99Sp7o3bm8PHUxjgZql8DFZ3uru5H370"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460103344288-84ka6lt1br3h6v70hc2plov05pm0ionp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460103344288:android:ee07402e7fa8955e",
+        "android_client_info": {
+          "package_name": "com.up823183.medicaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460103344288-oac3c55fkp2c42e5hi9l3f5iiig8cjoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.up823183.medicaily",
+            "certificate_hash": "aec3b4c64f07254bf19b15335754623354479630"
+          }
+        },
+        {
+          "client_id": "460103344288-84ka6lt1br3h6v70hc2plov05pm0ionp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD99Sp7o3bm8PHUxjgZql8DFZ3uru5H370"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460103344288-84ka6lt1br3h6v70hc2plov05pm0ionp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

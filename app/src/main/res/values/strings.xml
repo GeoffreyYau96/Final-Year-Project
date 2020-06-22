@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Medicaily</string>
+
+    <string name="facebook_application_id" translatable="false">985626398308962</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb985626398308962</string>
+    <string name="sign_out">SignOut</string>
+    <string name="proceed_to_main_menu">proceed to main menu</string>
+    <string name="icon_search">search</string>
+    <string name="setting">setting</string>
+    <string name="logout">logout</string>
+    <string name="icon_save">save</string>
+
+
+    <string-array name="types">
+        <item>Capsule</item>
+        <item>Pill</item>
+        <item>Liquid</item>
+        <item>Drop</item>
+        <item>Spray</item>
+        <item>Injection</item>
+        <item>Inhaler</item>
+    </string-array>
+</resources>
